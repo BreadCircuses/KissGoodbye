@@ -13,7 +13,12 @@ But sometimes the project falls through, no matter how hard we tried.
 Maybe there was a change of management in the company and our project received low priority, or maybe our price was too high - 
 we may never know.
 
-**Hypothesis**
+**Hypothesis # 1**
+
+The amount of time spent negotiating for a new contract can be predicted using least-squares linear regression,
+where the budget is an independent variable and the amount of time is a response variable.
+
+**Hypothesis # 2**
 
 With negotiations that don't lead to winning the contract 
 there is a moment in time when is it reasonable to stop spending resourses on this negotiation. 
