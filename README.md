@@ -1,7 +1,9 @@
-# KissGoodbye
-A tool for entrepreneurs/account managers.
-Predicts the amount of time spent negotiating for a new contract. Uses regression.
-Named after Henry Kissinger.
+# KissGoodbye?
+* A tool for entrepreneurs/account managers.
+* Predicts the amount of time that will be spent negotiating for a new contract. 
+* Uses regression.
+* Named after Henry Kissinger.
+* Also tries to predict the right time to cut our losses when the negotiation is not leading anywhere.
 
 Negotiation for a new contract always takes longer than we want and often longer than we expect.
 
@@ -11,9 +13,13 @@ But sometimes the project falls through, no matter how hard we tried.
 Maybe there was a change of management in the company and our project received low priority, or maybe our price was too high - 
 we may never know.
 
-Before it happens, how do we know our chance of getting the contract is low enough? 
-When is the right time to cut our losses? 
-How can we make the whole process more predictable overall?
+**Hypothesis**
+
+With negotiations that don't lead to winning the contract 
+there is a moment in time when is it reasonable to stop spending resourses on this negotiation. 
+WHEN?
+
+
 
 *to be continued*
 
